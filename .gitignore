@@ -32,5 +32,6 @@
 
 /app/assets/builds/*
 !/app/assets/builds/.keep
+/app/assets/javascripts/*
 
 /node_modules
