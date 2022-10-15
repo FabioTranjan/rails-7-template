@@ -1,5 +1,5 @@
 {
-  "name": "ping-investor",
+  "name": "rails-template",
   "private": true,
   "dependencies": {
     "@hotwired/turbo-rails": "^7.1.2",
